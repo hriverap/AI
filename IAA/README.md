@@ -1,1 +1,5 @@
-El reporsitorio contiene el trabajo realizado para IAA (Inteligencia Artificial Aplicada), el cual tiene como objetivo, construir una agente virtual para el proceso de recomendacion de peliculas
+IAA (Inteligencia Artificial Aplicada)
+
+El reporsitorio contiene el trabajo realizado para IAA (Inteligencia Artificial Aplicada), el cual tiene como objetivo, construir una agente virtual para el proceso de recomendacion de peliculas.
+
+El agente se construyo utilizando Watson Assisant y el modelo de recomendación 

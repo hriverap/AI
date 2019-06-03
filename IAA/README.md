@@ -6,6 +6,7 @@ El agente se construyo utilizando <a href="https://cloud.ibm.com/docs/services/a
 
 <b>El diagrama de solucion es:</b>
 
+<img src="./img/DA_CHATBOT.png">
 
 
 
